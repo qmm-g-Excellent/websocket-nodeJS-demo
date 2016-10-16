@@ -27,6 +27,7 @@ See also: [_>> What is Phusion Passenger, and why should I care?_](#about)
 Run:
 
     passenger start --sticky-sessions
+        或者node app
 
 Access the demo application at http://0.0.0.0:3000/ and see it in action.
 
